@@ -8,4 +8,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 
 .jumbotron h1 {
   color: white;
+ border-radius: 0;
 }
