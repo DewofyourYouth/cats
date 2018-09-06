@@ -5,8 +5,9 @@ background: -webkit-linear-gradient(left, rgba(30,87,153,1) 0%,rgba(125,185,232,
 background: linear-gradient(to right, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#007db9e8',GradientType=1 ); /* IE6-9 */
   }
-
+.jumbotron {
+   border-radius: 0;
+}
 .jumbotron h1 {
   color: white;
- border-radius: 0;
 }
